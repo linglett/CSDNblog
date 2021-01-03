@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注册</title>
+    <link href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link  href="bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet">
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        function validata() {
+            var email = document.getElementById("exampleInputEmail1");
+            var password=document.getElementById("exampleInputPassword1");
+            var name=document.getElementById("exampleInputName1");
+            if(email.value==""){
+                alert("邮箱不能为空");
+                email.focus();
+                return false;
+            }
+            if(password.value==""){
+                alert("密码不能为空");
+                email.focus();
+                return false;
+            }
+            if(name.value=="")
+            {
+                alert("昵称不能为空");
+                email.focus();
+                return false;
+            }
+            return true;
+        }
+
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="row clearfix" style="height: 140px; margin: 50px">
+        <div class="col-md-12 column">
+            <h3 class="text-center">
+                设置注册信息
+            </h3>
+        </div>
+    </div>
+
+    <div class="row clearfix">
+        <div class="col-md-4 column">
+        </div>
+        <div class="col-md-4 column">
+            <form role="form" action="applicationRegisterServlet" onsubmit="validata()">
+                <div class="form-group">
+                    <label>邮箱</label><input type="email" class="form-control" name="register_email" id="exampleInputEmail1" />
+                </div>
+                <div class="form-group">
+                    <label>昵称</label><input class="form-control" name="register_name" id="exampleInputName1"/>
+                </div>
+                <div class="form-group">
+                    <label>密码</label><input type="password" class="form-control" name="register_password"id="exampleInputPassword1" />
+                </div>
+                <div class="form-group">
+                    <label>验证码</label><input class="form-control" name="register_verification" />
+        </div>
+                <div class="checkbox">
+                </div> <button type="submit" class="btn btn-default" style="width: 100%;margin: 15px 0px 15px" onclick="validata()">注册</button>
+            </form>
+        </div>
+        <div class="col-md-4 column">
+        </div>
+    </div>
+</div>
+</body>
+</html>

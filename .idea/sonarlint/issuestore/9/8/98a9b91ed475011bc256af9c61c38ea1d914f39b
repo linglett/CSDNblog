@@ -1,0 +1,5 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ΞΨψ¥ύÿÿÿÿ8„Παλ.
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦…¬€όÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ηΐ—„

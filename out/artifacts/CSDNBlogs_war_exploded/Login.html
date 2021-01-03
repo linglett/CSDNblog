@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>欢迎登陆</title>
+    <link href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link  href="bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet">
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/base.css">
+    <script type="text/javascript">
+        function validata() {
+            var account=document.getElementById("exampleInputEmail1");
+            var password =document.getElementById("exampleInputPassword1");
+            if(account.value==""){
+                alert("账号不能为空！");
+                account.focus();
+                return false;
+            }
+            if(password.value ==""){
+                alert("密码不能为空");
+                password.focus();
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+<div class="main-login">
+    <div class="main-login-contain">
+        <div class="container">
+            <div class="row clearfix">
+                <div class="col-md-6 column">
+                    <img alt="140x140" src="image/advertising.jpg" style="height: 500px;width: 500px"/>
+                </div>
+                <div class="col-md-6 login-imgOrInput column ">
+                    <form action="applicationLoginServlet" class="margin"  method="post" onsubmit="return validata();">
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">邮箱</label>
+                            <input type="email" class="form-control input" width="254px" id="exampleInputEmail1" name="login_email"/>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">密码</label>
+                            <input type="password" class="form-control input" id="exampleInputPassword1" name="login_password"/>
+                        </div>
+                        <div class="form-group">
+                        </div>
+                        <div class="checkbox">
+                            <label><input type="checkbox" />Check me out</label>
+                        </div> <button type="submit" class="btn btn-default" style="width: 254px; background-color: #ca0c16;color: white" onclick="validata()">登陆</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--foot页面没写--->
+<iframe src="foot.html" width="100%" height="150" scrolling="no"
+        frameborder="0"></iframe>
+</body>
+</html>

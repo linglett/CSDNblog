@@ -1,0 +1,123 @@
+
+g	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¡Ë±
+f
+java:S2095‘"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–îÚ²
+T	java:S106ö"9Replace this use of System.out or System.err by a logger.(ë…ìêøÿÿÿÿ
+f
+java:S2095¸"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÊÏŒç
+c
+java:S2095¹"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ğ½ö§ûÿÿÿÿ
+f
+java:S2095½"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Í¯ô°
+k
+java:S2095ÿ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.( ĞæÊıÿÿÿÿ
+e
+java:S2095h"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‰•·
+j
+java:S2095z"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(µªµŠşÿÿÿÿ
+k	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µªµŠşÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÏµÆ
+g	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÊ»½
+l	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•´ëşÿÿÿÿ
+l	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÒôïøÿÿÿÿ
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Å¥¼ùÿÿÿÿ
+k	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ Ì¡şÿÿÿÿ
+k
+java:S2095¤"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(­à–‹ùÿÿÿÿ
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(™ä—”ıÿÿÿÿ
+c
+java:S2095Ë"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ğ½ö§ûÿÿÿÿ
+K
+java:S3740É"/Provide the parametrized type for this generic.(´†ÓÃøÿÿÿÿ
+k	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¶‘öıÿÿÿÿ
+e
+java:S2095ü"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ì¢½
+^
+java:S2095“"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(»Ø”Ü
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ı­îÿÿÿÿÿ
+f	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áêê¿
+j
+java:S2095V"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿ Ì¡şÿÿÿÿ
+l	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ øûÿÿÿÿ
+l	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥“ú¼şÿÿÿÿ
+B
+java:S1481—"&Remove this unused "a" local variable.(£œæÑúÿÿÿÿ
+l	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§÷Úÿÿÿÿÿ
+Q
+java:S1854—"5Remove this useless assignment to local variable "a".(£œæÑúÿÿÿÿ
+K
+java:S3740Ä"/Provide the parametrized type for this generic.(É“„°üÿÿÿÿ
+l	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó³ÀŞÿÿÿÿÿ
+c
+java:S2095Ñ"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ğ½ö§ûÿÿÿÿ
+d	java:S100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éˆ„„
+i	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´†ÓÃøÿÿÿÿ
+K
+java:S3740İ"/Provide the parametrized type for this generic.(à§ÊËûÿÿÿÿ
+i	java:S100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ øûÿÿÿÿ
+l	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§÷Úÿÿÿÿÿ
+l	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§÷Úÿÿÿÿÿ
+l	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§÷Úÿÿÿÿÿ
+i	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¹ê¯üÿÿÿÿ
+i	java:S100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É“„°üÿÿÿÿ
+B
+java:S1481€"&Remove this unused "a" local variable.(£œæÑúÿÿÿÿ
+f
+java:S2095Ş"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÊÏŒç
+J
+java:S3740u"/Provide the parametrized type for this generic.(òÆ£èúÿÿÿÿ
+^
+java:S2095“"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(»Ø”Ü
+Q	java:S125_"<This block of commented-out lines of code should be removed.(½‘Ñ³
+K
+java:S3740Œ"/Provide the parametrized type for this generic.(Ó³ÀŞÿÿÿÿÿ
+B
+java:S1481â"&Remove this unused "a" local variable.(£œæÑúÿÿÿÿ
+l	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶˜‘øüÿÿÿÿ
+Q
+java:S1854€"5Remove this useless assignment to local variable "a".(£œæÑúÿÿÿÿ
+f
+java:S2095Ğ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÊÏŒç
+f
+java:S2095±"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Èôƒ‹
+Q
+java:S1854â"5Remove this useless assignment to local variable "a".(£œæÑúÿÿÿÿ
+c
+java:S2095æ"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ğ½ö§ûÿÿÿÿ
+K
+java:S3740±"/Provide the parametrized type for this generic.(àÏ­Ùşÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âµÉç
+l	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶˜‘øüÿÿÿÿ
+c
+java:S2095ß"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ğ½ö§ûÿÿÿÿ
+K
+java:S3740‹"/Provide the parametrized type for this generic.(î¢™ºøÿÿÿÿ
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(™ä—”ıÿÿÿÿ
+g	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–îÚ²
+i	java:S100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÏ­Ùşÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§÷Úÿÿÿÿÿ
+l	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶˜‘øüÿÿÿÿ
+f	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñíş9
+k
+java:S2095ñ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÊË«©üÿÿÿÿ
+f	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âµÉç
+f	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰•·
+l	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßß‹óùÿÿÿÿ
+l	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§÷Úÿÿÿÿÿ
+]
+java:S2095|"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(»Ø”Ü
+i	java:S100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à§ÊËûÿÿÿÿ
+f
+java:S2095Ê"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÊÏŒç
+c	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áêê¿
+l	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ö¦¶üÿÿÿÿ
+f
+java:S2095å"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÊÏŒç
+i	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¢™ºøÿÿÿÿ
+l	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶˜‘øüÿÿÿÿ
+F
+java:S3740Ø"/Provide the parametrized type for this generic.(Éˆ„„
+f
+java:S2095‘"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ìÊ»½
+l	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ĞæÊıÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ğ˜×şÿÿÿÿ

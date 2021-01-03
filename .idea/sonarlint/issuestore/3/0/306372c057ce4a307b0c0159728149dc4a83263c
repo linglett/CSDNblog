@@ -1,0 +1,21 @@
+
+N	java:S106""9Replace this use of System.out or System.err by a logger.(©æ…
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈôÎ½øÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷æ¶ıÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "session".(ôÜ½¯
+‚
+java:S1989"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(±Œ©À
+B
+java:S1481",Remove this unused "session" local variable.(ôÜ½¯
+f
+java:S1989%"PHandle the following exception that could be thrown by "getWriter": IOException.(¼½Ù†
+V
+java:S2259("@A "NullPointerException" could be thrown; "C1" is nullable here.(Ô¢æŠ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹îÄûÿÿÿÿ
+Z
+java:S2441&"=Make "article" serializable or don't store it in the session.(Ùá‘8éú·ê.
+|
+java:S1989)"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ö—¶¾øÿÿÿÿ
+{
+java:S19890"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(éöõ¦ùÿÿÿÿ

@@ -1,0 +1,19 @@
+
+M
+java:S1854"7Remove this useless assignment to local variable "out".(¾šçŞ
+f
+java:S1989&"PHandle the following exception that could be thrown by "getWriter": IOException.(¼½Ù†
+‚
+java:S1989"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(±Œ©À
+>
+java:S1481"(Remove this unused "out" local variable.(¾šçŞ
+f
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞ
+A
+java:S1481&"+Remove this unused "writer" local variable.(¼½Ù†
+{
+java:S1989"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(éöõ¦ùÿÿÿÿ
+P
+java:S1854&":Remove this useless assignment to local variable "writer".(¼½Ù†
+|
+java:S1989)"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(î»üÿÿÿÿ

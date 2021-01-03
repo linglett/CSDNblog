@@ -1,0 +1,15 @@
+
+‚
+java:S1989"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(±Œ©À
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÿÅ¿şÿÿÿÿ
+R
+java:S2209"5Change this instance-reference to a static reference.(«¸°€8ìµê.
+{
+java:S1989"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(éöõ¦ùÿÿÿÿ
+f
+java:S1192 "KDefine a constant instead of duplicating this literal "article_id" 3 times.(ÿÅ¿şÿÿÿÿ
+f
+java:S1989)"PHandle the following exception that could be thrown by "getWriter": IOException.(¼½Ù†
+e	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÁ@
+t
+java:S1989#"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(œ‘õşÿÿÿÿ

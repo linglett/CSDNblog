@@ -1,0 +1,9 @@
+
+E
+java:S1068
+"0Remove this unused "applicantPwd" private field.(Œ¨ë
+V	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(ñ¶“Þ
+w
+java:S41445"aUpdate this method so that its implementation is not identical to "getapplicantemail" on line 28.(Ëë¢š
+‘
+java:S18455"{Rename method "getApplicantEmail" to prevent any misunderstanding/clash with method "getapplicantemail" defined on line 28.(Ëë¢š

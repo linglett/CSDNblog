@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CSDNBlogs:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSDNBlogs_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CSDNBlogs" />
+          <element id="library" level="application" name="jquery" />
+          <element id="library" level="application" name="bootstrap" />
+          <element id="library" level="application" name="summernote" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-8.0.11" />
+          <element id="library" level="project" name="jstl" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.11" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:2.6.0" />
+        </element>
+      </element>
+      <element id="library" level="project" name="fastjson-1.2.58" />
+      <element id="javaee-facet-resources" facet="CSDNBlogs/web/Web" />
+    </root>
+  </artifact>
+</component>

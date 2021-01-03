@@ -1,0 +1,12 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ø¼‹ùÿÿÿÿ
+‚
+java:S1989"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(±Œ©À
+n
+java:S19896"SHandle the following exception that could be thrown by "sendRedirect": IOException.(­ÎÊúÿÿÿÿ
+a
+java:S24411"?Make "Applicant" serializable or don't store it in the session.(á×ÌÄøÿÿÿÿ8¢ìµê.
+f
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞ
+{
+java:S1989:"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(éöõ¦ùÿÿÿÿ

@@ -1,0 +1,12 @@
+
+–
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ú¿
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿•ÛØ
+t
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(êÔÆ¹ùÿÿÿÿ
+f
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(¼½Ù†
+{
+java:S1989"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(éöõ¦ùÿÿÿÿ
+‚
+java:S1989"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(±Œ©À

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>修改个人资料</title>
+    <link href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link  href="bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet">
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/base.css">
+</head>
+<body>
+<div class="main-login">
+    <div class="main-login-contain">
+        <div class="container">
+            <div class="row clearfix">
+
+                <div class="col-md-6 login-imgOrInput column "style="margin-left: 250px;height: 700px">
+                    <form action="personal_dataAddServlet" class="margin"  method="post" onsubmit="return validata();">
+                        <div class="form-group">
+                            <label>昵称：</label>
+                            <input type="text" class="form-control input" width="254px" id="change_name" name="change_name"/>
+                        </div>
+                        <div class="form-group">
+                            <label >性别：</label>
+                            <input type="text" class="form-control input" id="change_sex" name="change_sex"/>
+                        </div>
+                        <div class="form-group">
+                            <label >所在地：</label>
+                            <input type="text" class="form-control input" id="change_location" name="change_location"/>
+                        </div>
+                        <div class="form-group">
+                            <label >行业：</label>
+                            <input type="text" class="form-control input" id="change_business" name="change_business"/>
+                        </div>
+                        <div class="form-group">
+                            <label >职业：</label>
+                            <input type="text" class="form-control input" id="change_job" name="change_job"/>
+                        </div>
+                            <div class="form-group">
+                            <label >手机：</label>
+                            <input type="text" class="form-control input" id="phoneNumber" name="change_phoneNum"/>
+                        </div>
+                        <div class="form-group">
+                        </div>
+                        <button type="submit" class="btn btn-default" style="width: 120px; background-color: #ca0c16;color: white" onclick="validata()">保存</button>
+                        <button type="submit" class="btn btn-default" style="width: 120px; background-color: white;color: black" onclick="validata()">取消</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--foot页面没写--->
+<iframe src="foot.html" width="100%" height="150" scrolling="no"
+        frameborder="0"></iframe>
+</body>
+</html>
